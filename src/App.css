@@ -1,6 +1,3 @@
-@import "../src/componets/style/commonClasses.css";
-@import url("https://fonts.googleapis.com/css2?family=Nunito&family=Roboto+Mono:wght@200&display=swap");
-
 body {
   margin: 0px;
   font-family: "Nunito", sans-serif;
