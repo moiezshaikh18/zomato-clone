@@ -70,3 +70,25 @@
   font-size: 14px;
   outline: none;
 }
+
+.profile-wrapper {
+  display: flex;
+  justify-content: space-between;
+  width: 15%;
+  align-items: center;
+}
+
+.header-profile-image {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+}
+
+.header-user-name {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.profile-option-icon {
+  font-size: 20px;
+}

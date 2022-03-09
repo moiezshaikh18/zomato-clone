@@ -26,6 +26,15 @@ const Header = () => {
             />
           </div>
         </div>
+        <div className="profile-wrapper">
+          <img
+            src="https://b.zmtcdn.com/images/user_avatars/mug_2x.png?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A"
+            alt="profile"
+            className="header-profile-image"
+          ></img>
+          <span className="header-user-name">Moiz</span>
+          <i className="fa-solid fa-chevron-down absolute-center profile-option-icon"></i>
+        </div>
       </div>
     </div>
   );
